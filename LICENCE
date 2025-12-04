@@ -1,37 +1,47 @@
-Copyright (c) 2025 Chirag Menariya
+Copyright (c) 2025 Chirag Menariya, Yashpriyadeep Katta, & RamKrishna Tagore
 GitHub: ChiragMenariyaCJ
-LinkedIn: https://www.linkedin.com/in/chirag-menariya-544bb2192/
+LinkedIn:
+
+* Chirag Menariya: [https://www.linkedin.com/in/chirag-menariya-544bb2192/](https://www.linkedin.com/in/chirag-menariya-544bb2192/)
+* Yashpriyadeep Katta: [https://www.linkedin.com/in/yashpriyadeep-katta-776403162/](https://www.linkedin.com/in/yashpriyadeep-katta-776403162/)
+* RamKrishna Tagore: [https://www.linkedin.com/in/ramakrishna-tagore-527bb2192/](https://www.linkedin.com/in/ramakrishna-tagore-527bb2192/)
 
 Permission is hereby granted, free of charge, to any person or organization (“You”) obtaining a copy
 of this software and associated documentation files (the “Software”), subject to the following conditions:
 
-1. Attribution and credit  
-   - Any copy or derivative work based on the Software must retain the above copyright notice  
-     and include a clear attribution to the original author (Chirag Menariya) and a link to
-     the original repository: https://github.com/ChiragMenariyaCJ/Diabetes-Prediction-ML.  
-   - In any published or distributed derivative or modified version, you must include a NOTICE file
-     (or a section in documentation) acknowledging the original author and source.
+1. **Attribution and credit**
 
-2. Non‑misuse / Ethical use requirement  
-   - You may not use, sublicense, distribute, or deploy the Software (or any derivative) for purposes
-     that are unethical, harmful, discriminatory, or that violate human rights or applicable law.  
-   - You may not use the Software (or derivatives) to build a commercial product or service for sale
-     or profit without explicit written permission from the original author.
+   * Any copy or derivative work based on the Software must retain the above copyright notice
+     and include a clear attribution to the original authors (Chirag Menariya, Yashpriyadeep Katta, RamKrishna Tagore) and a link to
+     the original repository: [https://github.com/ChiragMenariyaCJ/Diabetes-Prediction-ML](https://github.com/ChiragMenariyaCJ/Diabetes-Prediction-ML).
+   * In any published or distributed derivative or modified version, you must include a NOTICE file
+     (or a section in documentation) acknowledging the original authors and source.
 
-3. Patent prohibition  
-   - You may not file for any patent (or assist any entity in filing a patent) that claims the Software,
-     its modifications, or any derivative work based on it.  
-   - Any attempt to patent or enforce patent claims over the Software or its derivatives voids this licence.
+2. **Non‑misuse / Ethical use requirement**
 
-4. Redistribution & modification  
-   - You may freely copy, modify, and distribute the Software or derivative works, provided you comply
-     with clauses 1, 2, and 3.  
-   - Any modified files must carry prominent notices stating the changes you made.
+   * You may not use, sublicense, distribute, or deploy the Software (or any derivative) for purposes
+     that are unethical, harmful, discriminatory, or that violate human rights or applicable law.
+   * You may not use the Software (or derivatives) to build a commercial product or service for sale
+     or profit without explicit written permission from the original authors.
 
-5. Disclaimer of warranty  
-   - THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
-   - In no event shall the original author be liable for any claim, damages, or other liability arising
+3. **Patent prohibition**
+
+   * You may not file for any patent (or assist any entity in filing a patent) that claims the Software,
+     its modifications, or any derivative work based on it.
+   * Any attempt to patent or enforce patent claims over the Software or its derivatives voids this licence.
+
+4. **Redistribution & modification**
+
+   * You may freely copy, modify, and distribute the Software or derivative works, provided you comply
+     with clauses 1, 2, and 3.
+   * Any modified files must carry prominent notices stating the changes you made.
+
+5. **Disclaimer of warranty**
+
+   * THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+   * In no event shall the original authors be liable for any claim, damages, or other liability arising
      from the use of the Software.
 
-6. License copy  
-   - Any recipient of the Software (or derivative) must receive a copy of this licence.
+6. **License copy**
+
+   * Any recipient of the Software (or derivative) must receive a copy of this licence.
