@@ -1,0 +1,5 @@
+http://localhost:5000/ - postman
+
+python3 -u "/home/chirag/VSCode/College/Diabetes-prediction-using-ML/index.py" - run backend
+
+npm start - run frontend 
