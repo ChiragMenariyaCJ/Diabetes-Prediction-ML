@@ -26,5 +26,3 @@ README.md   → Project overview and instructions
 ## Purpose
 
 This project demonstrates a **real-world application of machine learning in healthcare**. It is a valuable learning tool for understanding **data preprocessing, model training, backend API development, and frontend integration**.
-
-Do you want me to do that?
